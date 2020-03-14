@@ -10,4 +10,8 @@ How to run:
 - open terminal
 - python camera_use.py
 
+If you want to store your output:
+- open terminal
+- python camera_use.py --output_path "/Videos/recording.avi"
+
 Thanks and enjoy coding
